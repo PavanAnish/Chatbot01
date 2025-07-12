@@ -35,11 +35,12 @@ Setup Instructions
 Sample
 ------
 > You: What is the capital of France?
+
 > Bot: The capital of France is Paris.
 
 Author
 ------
-Built by [Your Name]
+Built by Pavan V Anish
 
 License
 -------
